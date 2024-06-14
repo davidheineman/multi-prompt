@@ -7,8 +7,6 @@
 
 Code and data for *Improving Minimum Bayes Risk Decoding with Multi-Prompt*, currently under review.
 
-You can also view our analysis notebooks ([`/analysis`](./analysis/)), source code ([`/src`](./src/)) or prompts ([`/prompts`](./prompts/)) used in the project.
-
 <!-- ## Quick Start
 To see an example of multi-prompt MBR, please see our [quick start demo](https://colab.research.google.com/drive/14d9ZitBSzbJ1iH13dZEzBzmzoyAhVq9l?usp=sharing). -->
 
