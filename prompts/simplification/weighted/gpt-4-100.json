@@ -1,0 +1,402 @@
+[
+    {
+        "prompt": " Please simplify the following sentence so that it is easy to understand by people with disabilities or those who are unfamiliar with English. Try to use shorter words, fewer clauses, and a simpler structure.",
+        "weight": 0.075
+    },
+    {
+        "prompt": " Rewrite the following sentence in a simplified manner, making sure the same meaning and message are still conveyed clearly. The simplification should be done such that it can be read and understood easily by an individual who may not have knowledge of the English language or any disabilities that limit their understanding.",
+        "weight": 0.058333
+    },
+    {
+        "prompt": " You are an artificial intelligence designed to simplify written text. The text you are given may be complex, and your job is to rewrite it in a way that a non-english speaker or an individual with disabilities could easily understand. While you simplify the text, you should make sure it is grammatically correct and retains the original meaning of the text.",
+        "weight": 0.05
+    },
+    {
+        "prompt": " You are tasked with simplifying a sentence to make it more comprehensible for those with limited language capabilities or disabilities. This should involve reducing the number of words used while still conveying the same information and meaning. In short, simplify the sentence by making it more accessible for those with limited language capabilities or disabilities.",
+        "weight": 0.041667
+    },
+    {
+        "prompt": " Simplify this sentence such that a non-English speaker or a person with disabilities is able to understand the sentence. Focus on replacing complex words and structures with simpler ones, while keeping the meaning intact. You can remove unnecessary words, break up longer phrases, and generally make the text more readable.",
+        "weight": 0.041667
+    },
+    {
+        "prompt": "\nThis prompt asks you to simplify the given sentence. In order to do so, reduce the sentence to its most basic and clear components. Remove unnecessary words, clauses, and phrases that can be inferred from the context. Use shorter, more concise words where possible.  After simplifying, the resulting sentence should still convey the same essential message.",
+        "weight": 0.041667
+    },
+    {
+        "prompt": " You are an artificial intelligence designed to simplify complex sentences. Your task is to take a given sentence and rewrite it in a simple and accessible way that retains the meaning and intention of the original. Your simplification should be linguistically accurate and adhere to standard English conventions. Additionally, any complex words, phrases or concepts should be rewritten to be easily understood by a non-English speaker or individual with disabilities.",
+        "weight": 0.033333
+    },
+    {
+        "prompt": " You are an artificial intelligence designed to simplify complex written text. The given text may contain intricate ideas, concepts or phrases and your task is to simplify it so that it is easier to understand for non-native speakers of English. You can do this by using synonyms to replace difficult words (paraphrasing), omitting unnecessary details (compression) and/or breaking down a long complex sentence into several simpler sentences. The resulting sentence should be grammatically correct and still retain the main message without changing the overall meaning.",
+        "weight": 0.033333
+    },
+    {
+        "prompt": " You are a text simplification bot tasked with making the sentence below easier for a non-English speaker or someone with disabilities to understand. Your goal is to make the sentence shorter, simpler, and easier to comprehend without changing its meaning. Please do not make the sentence more complex, longer, or difficult for a reader.",
+        "weight": 0.033333
+    },
+    {
+        "prompt": " You are an AI assistant that specializes in text simplification. Text simplification is a process used to reduce the complexity of a sentence without changing its meaning. Your task is to rewrite the following complex sentence to make it easier for non-native speakers of English to understand. To do this, replace complex words with simpler synonyms (i.e. paraphrasing), delete unimportant information (i.e. compression), and/or split the sentence into several simpler ones. Your rewritten sentence should be grammatically correct, fluent, and should retain the main idea of its original counterpart.",
+        "weight": 0.033333
+    },
+    {
+        "prompt": " You are an artificial intelligence tasked with the job of simplifying complex sentences. The text you are given should be re-written in a way that is understandable and easier for people who are not native English speakers, or have disabilities, to comprehend. This includes retaining the original meaning of the sentence while making the language and wording simpler and clearer.",
+        "weight": 0.033333
+    },
+    {
+        "prompt": " Text simplification is an important task in natural language processing for creating a simplified version of a sentence that conveys the same meaning as the original sentence but with less complex language. For this task, you will be given a sentence and asked to rewrite it using simpler words and structures so that a non-English speaker or an individual with disabilities can better understand it. Please use semantic compression to create a simplified version of the following sentence.",
+        "weight": 0.033333
+    },
+    {
+        "prompt": " You are an AI assistant tasked with simplifying the following sentence. Your goal is to make the text easier to understand for non-native speakers of English. You can do this by replacing complex words with simpler synonyms (i.e. paraphrasing), deleting unimportant information (i.e. compression), and/or splitting a long complex sentence into several simpler ones. The final simplified sentence should be grammatical, fluent, and retain the main ideas of its original counterpart without altering its meaning.",
+        "weight": 0.033333
+    },
+    {
+        "prompt": " Please simplify the sentence below so that a non-english speaker or an individual with disabilities can better understand it. Simplification should involve removing unnecessary words, changing the sentence structure, and using simpler words while preserving the meaning of the original text.",
+        "weight": 0.025
+    },
+    {
+        "prompt": " This task involves making a sentence easier to understand by rewriting it in a simpler way. The language model should take a sentence and create a new sentence that is easier to read or understand, while still conveying the same message. The model should produce an output that is concise and uses everyday language. The model should also be mindful of the context of the original sentence.",
+        "weight": 0.025
+    },
+    {
+        "prompt": " You are an artificial intelligence tasked with simplifying human written text. Your job is to make the text concise and readable by using the same idea as the original sentence but in simpler terms. You should focus on using concise language and reducing complex phrases or ideas. The result should be written in clear and understandable English with minimal grammar and spelling errors.",
+        "weight": 0.025
+    },
+    {
+        "prompt": " You are a language model tasked with simplifying the following sentence. Text simplification is the process of reducing syntactic or lexical complexity while maintaining the original meaning of a text. Your goal is to make the sentence easier to comprehend while not changing any of the original information content. Please simplify the sentence in a way that retains the original intent.",
+        "weight": 0.025
+    },
+    {
+        "prompt": "\nYou are a text simplification robot. Your job is to simplify the given sentence in order to make it easier to read and comprehend without losing the essence of its meaning. Simplify the sentence in a way that is concise and accurately conveys the original concept. Do not add any extra words, change any of the meanings, or make the text longer than it needs to be.",
+        "weight": 0.025
+    },
+    {
+        "prompt": " You are an AI assistant tasked with creating a simpler version of a text. Text simplification can be defined as the reduction of the syntactic or lexical complexity of a text without changing its meaning. The aim of text simplification is to make the text easier to understand for a human or process by a program. Please simplify the following sentence.",
+        "weight": 0.025
+    },
+    {
+        "prompt": " Rewrite this sentence in a simple and easy to understand way. Make sure to retain the meaning and ideas of the original sentence while using shorter words and sentences.",
+        "weight": 0.025
+    },
+    {
+        "prompt": " You are an AI assistant that simplifies text. Text simplification reduces the complexity of the text while attempting to maintain the original meaning and information. The goal is to make the text easier to comprehend by humans or programs. Please simplify the following sentence.",
+        "weight": 0.016667
+    },
+    {
+        "prompt": " You are an artificial intelligence designed to simplify human written text. Your task is to take complex sentences and rewrite them using a combination of elaboration, generalization, and paraphrase. Elaborate by adding meaningful, relevant and correct information, generalize by deleting unnecessary or irrelevant concepts, and paraphrase by swapping complex spans with simpler alternatives. The final simplified sentence should be grammatically correct and easier to read compared to the original sentence.",
+        "weight": 0.016667
+    },
+    {
+        "prompt": " You are an artificial intelligence designed to simplify a sentence. Rewrite the given sentence in a concise, clear and understandable way that retains the ideas of the sentence. Make sure to use simpler language and shorter sentences when needed.",
+        "weight": 0.016667
+    },
+    {
+        "prompt": " You are an AI assistant that simplifies sentences. Simplification is a task used to reduce the complexity of a sentence, while still preserving its overall meaning and information. This is done to make the text more understandable to the reader. Please simplify the following sentence.",
+        "weight": 0.016667
+    },
+    {
+        "prompt": " Please use a language model to simplify the following sentence such that it is more understandable for non-native speakers and people with disabilities. In order to simplify the sentence, please use a combination of Elaboration, Generalization, and Paraphrase operations. The goal is to create a sentence that is grammatical, concise, and easier to read than the original sentence.",
+        "weight": 0.016667
+    },
+    {
+        "prompt": " Rewrite the following sentence to simplify its language and structure, without altering the main idea. This can be done by replacing complex words with simpler synonyms, deleting unimportant information, and/or splitting the sentence into several simpler ones. Make sure the final simplified sentence is grammatically correct, fluent, and still conveys the same message as the original.",
+        "weight": 0.016667
+    },
+    {
+        "prompt": " The task of text simplification is to reduce the complexity of a sentence while preserving its meaning. Your job is to take the following sentence and create a simpler version which a non-English speaker or individual with disabilities would understand more easily.",
+        "weight": 0.016667
+    },
+    {
+        "prompt": " Transform this sentence into a simpler version that is easier to understand, while still conveying the same meaning. Focus on using shorter words and shorter sentences to reduce complexity.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " You are an AI assistant that writes text simplification. Text simplification can be defined as any process that reduces the syntactic or lexical complexity of a text while attempting to preserve its meaning and information content. The aim of text simplification is to make text easier to comprehend for a human user, or process by a program. Your task is to take the following sentence and produce a simplified version that would be easier for a non-English speaker or someone with disabilities to understand. Please simplify the sentence.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": "\nYou are to act as a text simplification bot. Your task is to simplify the given complex sentence such that it is easier to read and understand. Use techniques such as replacing complex words with simpler synonyms, removing unimportant information, and breaking a long sentence into several shorter sentences. The sentence should remain grammatical, fluent, and maintain the core idea of the original while keeping the same meaning.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " Text simplification is a process used in natural language processing that alters the structure and grammar of existing text, while preserving its underlying meaning. Your task is to use semantic compression methods to reduce the linguistic diversity of the sentence and simplify its structure. Please simplify the following sentence.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " Please simplify the following sentence by using a combination of three operations: paraphrase, generalization, and elaboration. Paraphrase involves swapping complex words with simpler alternatives. Generalization requires the deletion of unnecessary information. Elaboration requires the addition of meaningful and relevant information in order to clarify or explain concepts that may be unknown to the audience. The final simplified sentence should be grammatically correct, concise, and easier to read than the original sentence.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " You are an artificial intelligence that is designed to simplify text in order to make it easier for readers to understand. Your task is to take a given sentence that contains complex ideas, phrases or concepts, and rewrite it in a clear and concise manner that retains the original meaning of the text. The final version should be simple, short and fluent, without being more complex than the original.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " As a language model, you are tasked with simplifying the following sentence in order to make it easier for non-native English speakers or individuals with disabilities to understand. Please attempt to reduce the complexity of the sentence while still conveying the same meaning. Be sure to ensure that the resulting sentence is shorter, simpler and easier to read.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": "\nYou are a language model tasked with simplifying the following sentence. Please make the syntax of the sentence easier to understand, while preserving the original meaning of the sentence, and do not make the sentence longer or more complex.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " As an AI assistant, your task is to simplify the following sentence so that it is easier to read and understand. Be sure to reduce the sentence's complexity and length without affecting the intended meaning.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " Rewrite the following sentence to make it easier to understand. Replace complex words with simpler synonyms, delete unimportant information, and/or split the sentence into multiple sentences if needed. The resulting sentence should remain grammatical, fluent, and maintain the original meaning.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " Please use your language model to simplify the following sentence, so that it is shorter and easier to read. Focus on using simpler language and eliminating any redundant words or phrases in order to create a sentence that is more accessible for readers of all language levels and disabilities.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " Text simplification is an important operation used in natural language processing to change existing human-readable text so that it is easier to understand while still retaining its underlying meaning and information. Please simplify the following sentence by reducing the complexity of its grammar and structure while preserving its key ideas and concepts.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " Rewrite the following sentence so that it can be understood more easily by non-native speakers of English. Consider replacing complex words with simpler synonyms, deleting unimportant information, and/or splitting the sentence into simpler sentences. The final result should be grammatical, fluent, and should retain the main ideas of the original sentence without altering its meaning.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " This sentence needs to be simplified in order to make it easier for readers to understand. Please focus on shortening the length of the sentence and minimizing the complexity of the language used. Try to use simple, straightforward language and avoid long or complicated words or phrases. Your goal is to produce a sentence that expresses the same meaning as the original but is written with fewer words.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " You are an AI assistant tasked with simplifying sentences. The goal of text simplification is to reduce the complexity of a text without sacrificing the meaning and information content. When simplifying a sentence, focus on making the text easier to read, while also making sure to not add unnecessary words or complexity to the sentence. Please simplify the following sentence.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " The goal of text simplification is to reduce the complexity of a sentence while preserving its meaning and information. The task requires that you reduce the vocabularies, simplify the structure and reduce the linguistic diversity in the given sentence. Please simplify the following sentence.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " You are an AI assistant tasked with simplifying the below sentence. Text simplification is the process of reducing the syntactic or lexical complexity of a text while preserving its meaning and information content. To do so, you can use the combination of three operations: elaboration, generalization, and paraphrase. Elaboration is an addition of meaningful, relevant and correct information. Generalization is a deletion of unnecessary, irrelevant or complicated concepts, while paraphrase is swapping complex spans with simpler alternatives. The final simplified sentence should be grammatical, concise and easier to read than the original. Please simplify the sentence below.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " Create a simpler version of the sentence below so that it can be better understood by non-English speakers or individuals with disabilities. Text simplification techniques should be used to reduce the complexity of the language while preserving the original meaning and information.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " Using language models, simplify the sentence by replacing complex words with simpler synonyms, deleting unimportant information, and/or splitting a long sentence into several simpler sentences. Make sure that the simplified sentence is grammatical, fluent and retains the main ideas of its original counterpart without altering its meaning.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " Simplify the following complex sentence by replacing difficult words with simpler words or phrases, deleting unimportant information, and/or splitting the sentence into shorter sentences. The sentence should remain grammatically and stylistically correct, with the same meaning and main ideas as the original sentence.",
+        "weight": 0.008333
+    },
+    {
+        "prompt": " Please simplify the below sentence using the techniques of elaboration, generalization, and paraphrase. The goal is to produce a grammatical, concise sentence that is easier to read and understand than the original sentence.",
+        "weight": 0.0
+    },
+    {
+        "prompt": "\nRevise the following sentence to create a simpler and more easily understood version. This can be achieved by replacing complex words with simpler synonyms, deleting unimportant information, and/or breaking down a long, complex sentence into multiple shorter and simpler ones. The final sentence should remain grammatically correct, fluent, and keep the core meaning of the original sentence.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an AI created to simplify sentences. Your goal is to take the given sentence and break it down into simpler syntax and structure while retaining the same meaning. The result should be more reader-friendly while remaining faithful to the original message. Keep your simplification clear and concise, so readers can easily understand the sentence.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an AI language model designed for text simplification. Your task is to reduce the syntactic and lexical complexity of the sentence below while retaining its meaning and information content. To simplify the sentence, you can use operations such as elaboration, generalization and paraphrase. The final output should be grammatically correct and easier to read than the original sentence.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Text simplification is a process used to make language easier to understand, without changing the underlying meaning. Your task is to use language modeling to simplify the following sentence.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an artificial intelligence designed to simplify written text. You are tasked with rewriting complex text in a manner that is concise and easily understood by a reader, while still accurately conveying the meaning of the original text. Your simplification must maintain the original concepts and be fluent. Please simplify the sentence.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " \nSimplify the following sentence to express its meaning in as few words as possible without changing the original meaning. Remember to keep the sentence as clear and easy to understand as possible.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Please simplify the following sentence using Elaboration, Generalization and Paraphrase techniques. The goal is to create a simpler version of the sentence which can be easily understood by a non-English speaker or an individual with disabilities. The new sentence should be grammatically correct, concise and easier to read than the original sentence.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an AI assistant that writes text simplification. Text simplification involves the reduction of the syntactic or lexical complexity of a sentence, while attempting to keep the meaning and information content intact. Your task is to take the following sentence and make it as concise and easy to read as possible.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Text simplification is an important task for language processing and understanding. Your goal is to simplify a given sentence while retaining the meaning of the original sentence. You should aim to reduce the complexity of the sentence, shorten the sentence length, and replace complex words or phrases with simpler equivalents. The sentence given to you should be accurately rephrased in a concise and easy-to-understand manner.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an AI assistant tasked with simplifying a sentence. The aim of this task is to reduce syntactic and lexical complexity while preserving the meaning and information content of the sentence. To complete the task, please use a combination of elaboration, generalization, and paraphrase operations. Make sure the final sentence is concise, grammatically correct, and easier to read than the original sentence.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Simplify the given sentence by changing the language structure and style to make it more concise and easier to read. Make sure to keep the original meaning and intent of the sentence intact.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an AI assistant tasked with text simplification. Text simplification is the process of reducing the complexity of a sentence while preserving its meaning and information content. Your goal is to simplify the sentence below while ensuring its main message is intact.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an AI assistant tasked with simplifying the following sentence. Please use a combination of the three operations of elaboration, generalization, and paraphrase in order to reduce the syntactic or lexical complexity of the sentence while preserving its meaning and information content. The final sentence should be grammatically correct, concise, and easier to read than the original sentence.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Please use a combination of elaboration, generalization, and paraphrase operations to simplify the sentence. Ensure that the simplified sentence is grammatically correct, concise, and easier to read than the original.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " \nSimplify the sentence below by using the three operations of elaboration, generalization and paraphrase to make it grammatically correct, concise and easier to read than the original sentence. Your goal is to make the sentence as understandable as possible, while preserving the original meaning.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Text simplification is the process of transforming a complex sentence into a simpler one while preserving its meaning. Your task is to simplify the given sentence as much as possible, using methods of semantic compression to limit the number of words used and to reduce linguistic diversity.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are a text simplification bot whose goal is to reduce the complexity of sentences while attempting to preserve their meaning. Please take the following sentence and simplify it for a reader to better understand.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an AI assistant that performs text simplification. Text simplification is a process that reduces the complexity of text by attempting to keep its meaning intact while making it easier to understand. Your task is to simplify the following sentence as much as possible without losing its original meaning.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Please simplify the following sentence by using shorter words and simple sentence structure. Ensure that the content of the sentence remains the same and the meaning is kept clear. Make sure that the text is concise and easy to read.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Rewrite the following sentence in a simplified format, while maintaining the same meaning and ideas. Ensure that all simplifications you make are grammatically correct and use simpler language.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Please use your language model to simplify the following sentence, making sure to keep the meaning intact. Your goal is to make the sentence as concise and clear as possible, so you may need to remove redundant words or phrases, and rearrange or replace words or phrases to simplify the text.",
+        "weight": 0.0
+    },
+    {
+        "prompt": "\nYou are to act as a text simplification agent. Your task is to reduce the complexity of the following sentence while preserving its intended meaning. Please avoid making the text more complicated, longer, or difficult to understand.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Please use the three operations of simplification to make the sentence below easier to understand. The operations are: paraphrase (replace complex words with simpler synonyms), generalization (delete unimportant information) and elaboration (clarifying and providing background information). The result should be grammatical, fluent, and the main ideas of the original sentence must remain intact.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Text simplification is a task that seeks to take an existing sentence and modify its structure and words such that the underlying meaning remains intact, but the sentence is easier to read and understand. Your job is to take the sentence provided below and simplify it, while maintaining the original meaning.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Please simplify the sentence below by using a combination of paraphrase, generalization and elaboration. The goal is to create a grammatically correct and understandable sentence that conveys the same meaning as the original sentence, but is easier to read.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Please use a language model to simplify the following sentence. Your result should include an elaboration, generalization, and paraphrase to make the sentence grammatical, concise, and easier to read than the original.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an AI assistant that produces text simplification. The goal of text simplification is to reduce syntactic and lexical complexity, while preserving the original meaning and information content of a sentence. Your task is to simplify the following sentence while maintaining the same content.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an AI assistant that performs text simplification. Text simplification is the process of reducing the complexity of a text while preserving its meaning and information content. Your task is to simplify the following sentence while ensuring that the meaning of the original sentence is preserved as much as possible.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " \nPlease simplify the sentence below by using a combination of Elaboration, Generalization and Paraphrase. Add meaningful and relevant information, remove unnecessary or irrelevant concepts and replace complex spans with simpler alternatives. Aim to make the final sentence grammatical, concise and easier to read compared to the original.",
+        "weight": 0.0
+    },
+    {
+        "prompt": "\nYou are a language model tasked with simplifying a given sentence. Your goal is to keep the meaning of the sentence intact while reducing its complexity. This includes eliminating any redundancies, eliminating unnecessary phrases, and restructuring the text as needed. The output should be comprehensible while expressing the same ideas as the input sentence.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Text simplification is a process used to make complex sentences easier to read and understand. Your task is to simplify the following sentence by using semantic compression to reduce its word count and complexity, while retaining the same meaning.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Please simplify the following sentence by using a combination of elaboration, generalization, and paraphrase. Elaboration involves adding meaningful, relevant and correct information such as clarifying vague terminology, providing background information on an entity or subject, or explicating general world knowledge unknown to the audience. Generalization involves deleting unnecessary, irrelevant or complicated concepts. Paraphrasing involves swapping complex spans with equivalent, simpler alternatives. The resulting sentence should be grammatical, concise, and easier to read compared to the original sentence.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an artificial intelligence designed to simplify written text. Your task is to rewrite complex text in a simpler, more understandable way, without altering the original meaning. To do so, you will need to replace complex words with simpler synonyms (i.e. paraphrase), delete unimportant information (i.e. compression), and/or split a long complex sentence into several simpler ones. The final output should be grammatical, fluent, and retain the main ideas of its original counterpart.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Your task is to act as a text simplification bot. Utilizing methods of semantic compression, simplify the following sentence in a way that is syntactically easier to read and semantically easier to understand, while maintaining its meaning and information. Please do not make the text more complex, longer, or difficult to read.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are to act as a text simplification bot. Your task is to simplify the given sentence such that it maintains the same underlying meaning and information, while simplifying its grammar and structure to make it easier to read and understand. Please do not make the text more complex, longer or more difficult for a reader.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are a text simplification AI. Your task is to reduce the complexity of a given sentence while preserving its meaning. The goal is to make the text easier to read and understand while not making it longer or more difficult. Please use the following sentence and simplify it.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Please simplify the following sentence by replacing complex words with simpler synonyms, deleting unimportant information, and/or splitting the sentence into several simpler ones. The final simplified sentence needs to be grammatically correct, fluent, and retain the original meaning.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an AI assistant designed to simplify complex text. Your job is to rewrite the given text in a more straightforward and understandable way without compromising the meaning of the sentence. Make sure to keep the structure of the sentence intact, retain its original meaning, and use simpler words or phrases wherever possible.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Use the language model to simplify the given sentence by elaborating, generalizing and paraphrasing. The output should be grammatical, concise and easier to read than the original.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Using your language model, make this sentence more concise and easier to read by removing unnecessary words and phrases and utilizing simpler language while maintaining the original meaning.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Using semantic compression techniques, please simplify the following sentence by using a combination of elaboration, generalization, and paraphrase. Your simplification should result in a grammatical sentence that is more concise and easier to read than the original.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are tasked with simplifying the following sentence to make it easy to read and easy to understand without changing its meaning. Please use appropriate grammar and syntax to ensure the sentence is concise, yet still contains the same meaning as the original sentence.",
+        "weight": 0.0
+    },
+    {
+        "prompt": "\nPlease simplify the sentence by using a combination of elaboration, generalization, and paraphrase operations. Elaboration involves adding meaningful, relevant, and correct information; generalization involves removing unnecessary, irrelevant, or complex concepts; and paraphrase involves replacing complex spans with equivalent, simpler alternatives. The goal is to create a grammatical, concise sentence that is easier to read than the original.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Please simplify the following sentence to make it more concise and easily understandable for a variety of readers. Simplification involves rewriting the sentence so that it is shorter and more direct, while still conveying the original meaning of the sentence. When simplifying the sentence, try to avoid changing the meaning or adding unnecessary words.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an artificial intelligence designed to simplify written text. Rewrite the given complex sentence, making it easier to understand for non-native English speakers. This can be accomplished by replacing complex words with simpler synonyms (paraphrasing), deleting unimportant information (compression), and/or splitting a long complex sentence into simpler ones. The simplified sentence should be grammatical, fluent, and preserve the main ideas of the original sentence without changing its meaning.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Rewrite this sentence in a simpler and easier to understand way. The rewrite should keep the same ideas and be grammatically and syntactically correct.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an AI assistant tasked with simplifying text. Your job is to reduce the complexity of the following sentence while maintaining its intended meaning. Please make the sentence easier to read and understand, but not more complex, longer, or difficult.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " You are an AI assistant tasked with simplifying the following sentence. Text simplification is the process of reducing a sentence's syntactic and lexical complexity while preserving the meaning of the text. Please use your language model to reduce the complexity of the sentence, without making it longer or more difficult to understand.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Text simplification is a process of reducing the complexity of a sentence while maintaining its meaning and information. Your task is to rewrite the following sentence to make it simpler and easier to understand for individuals with disabilities or non-English speakers.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Please use a combination of elaboration, generalization, and paraphrase to simplify the sentence below. The final output should be grammatically correct and easier to read than the original sentence.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " This sentence contains complex language and syntax. Your task is to rewrite the sentence so that it is easier to understand. Keep the underlying meaning and information the same, but reduce the complexity of the language and grammar. Simplify the sentence as much as possible without losing the core meaning.",
+        "weight": 0.0
+    },
+    {
+        "prompt": " Using semantic compression methods, please simplify the sentence below using the three language processing operations: elaboration, generalization, and paraphrasing. Make sure the resulting sentence is grammatically correct, concise, and easier to understand compared to the original sentence.",
+        "weight": 0.0
+    }
+]
