@@ -2,10 +2,10 @@
     <h1>Multi-prompt MBR Decoding</h1>
 
 <!-- [**Quick Start Demo**](https://colab.research.google.com/drive/14d9ZitBSzbJ1iH13dZEzBzmzoyAhVq9l?usp=sharing) |  -->
-[**View Paper**](.)
+[**View Paper**](https://aclanthology.org/2024.emnlp-main.1255/)
 </div>
 
-Code and data for *Improving Minimum Bayes Risk Decoding with Multi-Prompt*, currently under review.
+Code and data for *Improving Minimum Bayes Risk Decoding with Multi-Prompt*, appearing at EMNLP Main 2024.
 
 <!-- ## Quick Start
 To see an example of multi-prompt MBR, please see our [quick start demo](https://colab.research.google.com/drive/14d9ZitBSzbJ1iH13dZEzBzmzoyAhVq9l?usp=sharing). -->
